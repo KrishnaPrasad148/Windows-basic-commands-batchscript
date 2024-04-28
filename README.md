@@ -26,7 +26,7 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 
-### Create a directory named "MyLab" on the desktop.
+### 1) Create a directory named "MyLab" on the desktop.
 
 #### COMMAND AND OUTPUT:
 ```
@@ -36,7 +36,7 @@ mkdir %userprofile%\Desktop\MyLab
 
 
 
-### Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
+### 2) Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
 
 #### COMMAND AND OUTPUT:
 ```
@@ -46,7 +46,8 @@ type nul > MyFile.txt
 ```
 
 
-### List the contents of the "MyLab" directory.
+
+### 3) List the contents of the "MyLab" directory.
 
 #### COMMAND AND OUTPUT:
 ```
@@ -54,7 +55,7 @@ dir %userprofile%\Desktop\MyLab
 ```
 
 
-### Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
+### 4) Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 
 #### COMMAND AND OUTPUT:
 ```
@@ -63,7 +64,7 @@ copy MyFile.txt %userprofile%\Desktop\Backup
 ```
 
 
-### Move the "MyLab" directory to the "Documents" folder.
+### 5) Move the "MyLab" directory to the "Documents" folder.
 
 #### COMMAND AND OUTPUT:
 ```
