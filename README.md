@@ -25,12 +25,15 @@ Execute the necessary commands/batch file for the desired output.
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
+
 ### Create a directory named "MyLab" on the desktop.
 
 #### COMMAND AND OUTPUT:
 ```
 mkdir %userprofile%\Desktop\MyLab
 ```
+![image](https://github.com/KrishnaPrasad148/Windows-basic-commands-batchscript/assets/147332763/185e13d8-30aa-41cb-b892-6663192780a6)
+
 
 
 ### Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
