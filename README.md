@@ -32,7 +32,8 @@ Execute the necessary commands/batch file for the desired output.
 ```
 mkdir %userprofile%\Desktop\MyLab
 ```
-![image](https://github.com/KrishnaPrasad148/Windows-basic-commands-batchscript/assets/147332763/185e13d8-30aa-41cb-b892-6663192780a6)
+![Screenshot 2024-04-28 100248](https://github.com/KrishnaPrasad148/Windows-basic-commands-batchscript/assets/147332763/7ac7df08-c3c9-447d-9b72-6e61bac7f8b2)
+
 
 
 
@@ -42,7 +43,6 @@ mkdir %userprofile%\Desktop\MyLab
 ```
 cd %userprofile%\Desktop\MyLab
 type nul > MyFile.txt
-
 ```
 
 
